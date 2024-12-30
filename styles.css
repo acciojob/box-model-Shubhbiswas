@@ -9,7 +9,7 @@ body {
 .container {
     width: 300px;
     padding: 20px;
-    border: 2px solid #ccc;
+    border: 5px solid black;
     border-radius: 15px;
     text-align: center;
     background-color: grey;
